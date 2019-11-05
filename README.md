@@ -3,4 +3,4 @@ Svrha ovog našeg projekta je olakšati studentima praćenje svojih obaveza veza
 
 
 # Hello-world
-Our first reporsitory on GitHubg
+Our first reporsitory on GitHub
